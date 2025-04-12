@@ -9,7 +9,6 @@
 ## ⭐ Features
 
 ### 🎯 Combat
-- Auto Combo System
 - Kill Aura
 - Hit Box Expander
 - Auto Perfect Block
@@ -17,12 +16,7 @@
 - No Cooldown
 
 ### 🤖 Farming
-- Auto Farm Strongest
-- Auto Quest Complete
-- Auto Collect Drops
-- Auto Training
-- EXP Multiplier
-- Auto Rebirth
+- Auto Farm Kills
 
 ### 👁️ Visual
 - ESP for Players
@@ -35,9 +29,7 @@
 ### 🎮 Character Mods
 - WalkSpeed Modifier
 - JumpPower Modifier
-- Infinite Stamina
 - No Stun
-- No Fall Damage
 - Infinite Jump
 
 ### 🌟 Misc
